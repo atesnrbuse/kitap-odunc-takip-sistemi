@@ -16,7 +16,7 @@ Nesne Yönelimli Programlama (OOP) prensipleriyle geliştirilmiş; kitap envante
 
 ## 🛠️ Kullanılan Teknolojiler & Kavramlar
 
-- **Dil:** Python 3.x
+- **Dil:** Python 
 - **OOP (Nesne Yönelimli Programlama):** `Book`, `Student`, `LibrarySystem` sınıfları ve `__init__`, `__str__` metotları
 - **Dosya İşlemleri (File Handling):** `open()`, veri okuma/yazma, UTF-8 dosya yönetimi
 - **Hata Yakalama:** `try-except`, `ValueError`, `FileNotFoundError`
